@@ -210,7 +210,7 @@ window.GRADES = {
     items: [
       { name: "Challenge 1: Data Preparation and Learning Types", group: "Weekly Challenges", due: "Sep 16 by 11:59p.m.", submitted: "Sep 22 at 10:52a.m.", status: "late", score: null, possible: 0, state: "hidden" },
       { name: "Challenge 2: Linear Regression Model", group: "Weekly Challenges", due: "Sep 23 by 11:59p.m.", submitted: "Sep 23 at 4:36p.m.", score: null, possible: 0, state: "hidden" },
-      { name: "Quiz 1 - Challenges 1 & 2- Requires Respondus LockDown Browser", group: "Quizzes", due: "Sep 25 by 8:30p.m.", submitted: "Sep 25 at 8:27a.m.", score: 3, possible: 10, whatif: true },
+      { name: "Quiz 1 - Challenges 1 & 2- Requires Respondus LockDown Browser", group: "Quizzes", due: "Sep 25 by 8:30p.m.", submitted: "Sep 25 at 8:27a.m.", score: 6, possible: 10, whatif: true },
       { name: "Challenge 3: Shallow vs. Deep Networks", group: "Weekly Challenges", due: "Sep 30 by 11:59p.m.", submitted: "Sep 28 at 8:34a.m.", score: null, possible: 0, state: "hidden" },
       { name: "Assignment #1 - Shallow Neural Network", group: "Assignments", due: "Oct 1 by 11:59p.m.", submitted: "Oct 1 at 8:46p.m.", score: 98, possible: 100, whatif: true, rubric: true },
       { name: "Challenge 4: Deep Learning on MNIST", group: "Weekly Challenges", due: "Oct 7 by 11:59p.m.", submitted: "Oct 15 at 6:50p.m.", status: "late", score: null, possible: 0, state: "hidden" },
@@ -220,7 +220,7 @@ window.GRADES = {
       { name: "Milestone 1: Proposal and Project Plan", group: "Project Milestones", due: "Nov 3 by 11:59p.m.", submitted: "Nov 3 at 10:58p.m.", score: 16.5, possible: 20, whatif: true, rubric: true },
       { name: "Challenge 5: Initialization and Gradient Flow", group: "Weekly Challenges", due: "Nov 6 by 11:59p.m.", submitted: "Nov 7 at 3:05p.m.", status: "late", score: null, possible: 0, state: "hidden" },
       { name: "Challenge 6: 1D Convolutional Neural Networks", group: "Weekly Challenges", due: "Nov 11 by 11:59p.m.", submitted: "Nov 11 at 3:07p.m.", score: null, possible: 0, state: "hidden" },
-      { name: "Quiz 3 - Challenges 5 & 6- Requires Respondus LockDown Browser", group: "Quizzes", due: "Nov 13 by 8:30a.m.", submitted: "Nov 13 at 8:22a.m.", score: 4, possible: 10, whatif: true },
+      { name: "Quiz 3 - Challenges 5 & 6- Requires Respondus LockDown Browser", group: "Quizzes", due: "Nov 13 by 8:30a.m.", submitted: "Nov 13 at 8:22a.m.", score: 8, possible: 10, whatif: true },
       { name: "Assignment #3 - CNN on CIFAR", group: "Assignments", due: "Nov 17 by 11:59p.m.", submitted: "", status: "missing", score: null, possible: 100, state: "hidden" },
       { name: "Challenge 7: Residual Network", group: "Weekly Challenges", due: "Nov 19 by 11:59p.m.", submitted: "Nov 19 at 5:24p.m.", score: null, possible: 0, state: "hidden" },
       { name: "Quiz 4 - Challenge 7 - Residual Networks- Requires Respondus LockDown Browser", group: "Quizzes", due: "Nov 20 by 8:30a.m.", submitted: "Nov 20 at 8:23a.m.", score: 10, possible: 10, whatif: true },
