@@ -199,7 +199,7 @@ window.GRADES = {
       { name: "SOFE4790U-Quiz-1", group: "Quizzes", due: "", submitted: "Sep 22 at 4:36p.m.", score: 10, possible: 10, whatif: true },
       { name: "SOFE4790U-Quiz2", group: "Quizzes", due: "", submitted: "Oct 6 at 4:17p.m.", score: 6.5, possible: 10, whatif: true },
       { name: "SOFE4790U-Quiz3", group: "Quizzes", due: "", submitted: "Nov 3 at 4:42p.m.", score: 10, possible: 10, whatif: true },
-      { name: "SOFE4790U-Quiz5- Requires Respondus LockDown Browser", group: "Quizzes", due: "", submitted: "", score: null, possible: 10 },
+      { name: "SOFE4790U-Quiz5", group: "Quizzes", due: "", submitted: "Nov 24 at 4:42p.m.", score: 10, possible: 10, whatif: true },
       { name: "test Quiz- Requires Respondus LockDown Browser", group: "Quizzes", due: "", submitted: "Sep 24 at 12:51p.m.", score: 3, possible: 3, whatif: true },
     ],
   },
